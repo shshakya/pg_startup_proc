@@ -1,0 +1,5 @@
+# Extension control file
+comment = 'Run stored procedures after recovery during startup'
+default_version = '1.0'
+relocatable = false
+module_pathname = '$libdir/startup_proc_extension'
